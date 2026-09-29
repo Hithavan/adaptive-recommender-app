@@ -28,7 +28,7 @@ LearnPath is a React-based adaptive recommender system designed for Innovation a
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/adaptive-recommender-app.git
+git clone https://github.com/hithavan/adaptive-recommender-app.git
 cd adaptive-recommender-app
 
 # Install dependencies
